@@ -1,0 +1,74 @@
+{
+    "Qui sommes-nous ?": "Barkachange est une plateforme qui favorise l'inclusion numérique.",
+    "Que faisons-nous ?": [
+        "Nous permettons aux populations d'acheter et de vendre instantanément des cryptomonnaies.",
+        "Nous facilitons les transactions depuis et vers des portefeuilles mobiles.",
+        "Nous utilisons les moyens de paiement mobiles, qui sont les plus populaires en Afrique."
+    ],
+    "Comment fonctionne barkachange.com ?": [
+        "Sur barkachange, vous créez un ordre de change.",
+        "Ensuite, vous devez procéder au paiement pour le valider.",
+        "Lorsque le paiement est reçu par barkachange, la contrepartie est immédiatement envoyée vers l’adresse de réception renseignée lors de la création de l’ordre."
+    ],
+    "Combien de temps durent les échanges sur barkachange.com ?": [
+        "Les échanges sur barkachange sont instantanés (hors confirmations blockchain).",
+        "Lorsque l'utilisateur a renseigné des informations incorrectes, le service à la clientèle le contactera dans les 15 minutes suivantes pour corriger l'erreur et terminer l'échange dans les plus brefs délais."
+    ],
+    "Est-il possible d'effectuer un échange manuel ?": [
+        "Les échanges manuels sont possibles dans ces cas :",
+        "1. La cryptomonnaie souhaitée n'est pas encore supportée par barkachange.com.",
+        "2. Le montant de l'échange est supérieur au minimum autorisé sur barkachange.com.",
+        "Dans ces cas de figure, vous pouvez contacter le service d'échange manuel par l'un des moyens suivants :",
+        "  - En cliquant sur ce lien : Demander un échange manuel.",
+        "  - En appelant au (+226) 02070404 / (+226) 07468888 (WhatsApp).",
+        "  - En envoyant un mail : hello@barkachange.com."
+    ],
+    "Barkachange.com fixe-t-il les tarifs ?": [
+        "Les utilisateurs de Barkachange.com ne sont pas affectés par les risques associés aux fluctuations du marché de la cryptomonnaie.",
+        "Le tarif est fixe pour 60 minutes, ce qui devrait être plus que suffisant pour effectuer l'échange."
+    ],
+    "Pourquoi devrais-je vous faire confiance ?": [
+        "Barkachange.com est l'un des échanges de cryptomonnaie les plus importants qui a gagné la confiance de plusieurs milliers d'utilisateurs d'Afrique de l'Ouest.",
+        "Le service fournit des transactions sûres et instantanées aux meilleurs taux possibles.",
+        " - Pas de dépôt.",
+        " - Échange quasi-instantané.",
+        " - Des centaines d'utilisateurs satisfaits tous les jours.",
+        "Consultez les avis des utilisateurs sur le site."
+    ],
+    "Où êtes-vous situé ?": [
+        "Nous sommes situés sur la rue 15-25 ZAD, Ouagadougou, Burkina Faso.",
+        "Les visites se font sur rendez-vous. Pour prendre rendez-vous, veuillez nous contacter."
+    ],
+    "Barkachange.com propose-t-il un programme d'affiliation ?": [
+        "Barkachange propose un système d'affiliation lucratif.",
+        "Pour en savoir plus, connectez-vous ou créez un compte, ensuite rendez-vous sur mon compte."
+    ],
+    "Qu'est-ce que barkachange ?": [
+        "Barka Change, c'est une application web et mobile qui vous permet d'acheter et de vendre des cryptomonnaies.",
+        "Vous pouvez aussi échanger des cryptomonnaies entre elles.",
+        "Vous ne stockez pas de cryptomonnaies sur barkachange (pour cela, nous vous proposons le Ledger Nano).",
+        "Lorsque nous recevons votre paiement, l'équivalent est automatiquement renvoyé vers le portefeuille dont vous spécifiez l'adresse lors de la création de l'échange.",
+        "Les échanges se font dans un délai maximum de 30 secondes (hors confirmations blockchain)."
+    ],
+    "Pourquoi télécharger l'application ?": [
+        "L'application mobile vous offre la meilleure expérience pour échanger, vendre ou acheter des cryptomonnaies où que vous soyez :",
+        " - Les meilleurs tarifs du marché.",
+        " - Transactions instantanées.",
+        " - Grandes réserves.",
+        " - KYC rapide et facile.",
+        " - Plus de 30 crypto-monnaies."
+    ],
+    "Dans quel pays, barkachange est disponible?": [
+    "Burkina Faso",
+    "Mali",
+    "Cameroun",
+    "Bénin",
+    "Togo",
+    "Niger",
+    "Gabon",
+    "Côte d'Ivoire",
+    "Guinée"
+]
+
+
+}
